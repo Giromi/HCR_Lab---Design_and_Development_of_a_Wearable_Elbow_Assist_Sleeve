@@ -1,1 +1,1 @@
-# HRI_Lab---Design_and_Development_of_a_Wearable_Elbow_Assist_Sleeve
+# Design and Development of a Wearable Elbow Assist Sleeve
