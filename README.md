@@ -2,7 +2,9 @@
 
 > Research on **human-centered robotic systems** integrating **wearable robotics, human–robot interaction, biosignal processing, and assistive technologies**.
 
----
+| Wearing the Sleeve | Isometric Motion Test | Dynamic Motion Test (SLLJ) |
+|:------------------:|:---------------------:|:--------------------------:|
+| <img src="https://github.com/user-attachments/assets/8e2ee273-db5e-411a-b6d4-21511acb6db5" height="180"> | <img src="https://github.com/user-attachments/assets/91d7c101-0074-4b0b-bca6-83d85f096817" height="180"> | <img src="https://github.com/user-attachments/assets/f426b83e-76eb-4e62-90c3-88d3d4cb6288" height="180"> |
 
 ## 📖 Overview
 
